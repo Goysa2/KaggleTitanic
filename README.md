@@ -7,3 +7,5 @@
     * Select an appropriate classifier
     * Fine tune model
     
+Score after first submission : 0.67.
+Goal : score > 0.90
